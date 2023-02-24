@@ -1,0 +1,109 @@
+.horizontal-menu .bottom-navbar .page-navigation > .nav-item.active > .nav-link .menu-title, .horizontal-menu .bottom-navbar .page-navigation > .nav-item.active > .nav-link i, .horizontal-menu .bottom-navbar .page-navigation > .nav-item.active > .nav-link .menu-arrow{
+	text-transform: capitalize;
+}
+.horizontal-menu .bottom-navbar .page-navigation > .nav-item > .nav-link{
+	padding: 17px 15px;
+}
+.menu-navbar{
+	padding: 0 15px;
+	min-height: auto;
+}
+table > thead{
+	background-color: #e4e4e4;
+}
+
+table > tbody > tr > td{
+	font-size: 12px !important;
+}
+
+table > thead > tr > th{
+    font-size: 12px !important;
+    line-height: 20px !important;
+}
+
+.horizontal-menu .bottom-navbar .page-navigation{
+	justify-content: space-around;
+}
+.table td{
+	padding: 6px 8px !important;
+}
+.table th{
+	padding: 15px 10px !important;
+}
+.md-MapAreaWard .table td {
+    padding: 5px 10px !important;
+}
+.tab-status div a{
+	min-width: 182px;
+	/* color: #212529;
+	text-align: left; */
+}
+.name-customer{
+	font-weight: normal;
+	font-size: 0.8rem !important;
+	line-height: 20px;
+}
+.tel-customer{
+	font-weight: normal;
+	font-size: 0.9rem !important;
+	line-height: 15px;
+	color: chocolate;
+}
+.tel-customer a{
+	color: chocolate;
+}
+button#dropdownMenuButton {
+    color: #fff;
+    height: 40px;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 19px;
+    border: 1px solid #ddd;
+}
+.action-item {
+    display: flex;
+}
+.ico-print {
+    width: 16px;
+    height: 16px;
+    background: url(https://holaship.vn/public/images/iconPrint.png) no-repeat;
+}
+.icon {
+    display: inline-block;
+    margin-top: 4px;
+}
+.action-item .icon {
+    margin-top: 10px;
+    width: 20px;
+}
+.action-item a {
+    font-weight: 500;
+    padding-left: 7px;
+    color: #222222;
+    font-size: 13px;
+    line-height: 21px;
+    padding: 7px 5px;
+}
+.thao-tac-chung .dropdown-menu {
+    border: 1px solid rgba(0, 0, 0, 0.15);
+    border-radius: 0.25rem;
+}
+.thao-tac-chung .dropdown .dropdown-menu{
+    margin-top: 1px;
+}
+.thao-tac-chung .dropdown-menu a:hover {
+    text-decoration: none;
+}
+.thao-tac-chung .dropdown .dropdown-menu .dropdown-item {
+    font-size: .875rem;
+    padding: 5px 10px;
+}
+
+.exportExcel{
+    color:#007bff; 
+    cursor:pointer;
+    
+}
+.exportExcel:hover{
+    border-bottom: 1px solid #007bff;
+}
